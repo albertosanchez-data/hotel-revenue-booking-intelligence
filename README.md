@@ -106,6 +106,7 @@ Hotel_Revenue_Booking_Intelligence/
 - Data-quality observations documented, including negative, zero, and unusually high ADR values.
 - Final Power BI metric reconciliation completed.
 - Repository documentation and final publication review remain in progress.
+- - **Project Documentation:** [View the documentation folder](documentation/)
 
 ## Professional Skills Demonstrated
 
