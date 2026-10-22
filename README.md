@@ -97,12 +97,15 @@ Hotel_Revenue_Booking_Intelligence/
 
 ## Current Project Status
 
-- PostgreSQL database connection established.
-- Booking data loaded into the staging table.
-- Total booking count validated at 119,390 records.
-- Power BI report developed with two analytical pages.
-- Executive KPIs and cancellation analysis visualizations created.
-- Final metric validation and documentation review remain part of the project completion process.
+- PostgreSQL staging table loaded with 119,390 hotel booking records.
+- SQL validation completed for booking counts, cancellation rates, monthly trends, lead-time groups, market segments, and ADR data quality.
+- Power BI report completed with two analytical pages: Executive Overview and Cancellation Analysis.
+- Executive KPIs reconciled against PostgreSQL results.
+- Cancellation rates validated by hotel type, lead-time range, and market segment.
+- Monthly cancellation analysis reviewed with year and month identified in the visual tooltip.
+- Data-quality observations documented, including negative, zero, and unusually high ADR values.
+- Final Power BI metric reconciliation completed.
+- Repository documentation and final publication review remain in progress.
 
 ## Professional Skills Demonstrated
 
